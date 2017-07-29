@@ -1,0 +1,9 @@
+F:\Projects\C Sharp to Arduino\C Sharp to Arduino\bin\Debug\C Sharp to Arduino.exe.config
+F:\Projects\C Sharp to Arduino\C Sharp to Arduino\obj\Debug\C Sharp to Arduino.csprojResolveAssemblyReference.cache
+F:\Projects\C Sharp to Arduino\C Sharp to Arduino\obj\Debug\C_Sharp_to_Arduino.Form1.resources
+F:\Projects\C Sharp to Arduino\C Sharp to Arduino\obj\Debug\C_Sharp_to_Arduino.Properties.Resources.resources
+F:\Projects\C Sharp to Arduino\C Sharp to Arduino\obj\Debug\C Sharp to Arduino.csproj.GenerateResource.Cache
+F:\Projects\C Sharp to Arduino\C Sharp to Arduino\bin\Debug\C Sharp to Arduino.exe
+F:\Projects\C Sharp to Arduino\C Sharp to Arduino\bin\Debug\C Sharp to Arduino.pdb
+F:\Projects\C Sharp to Arduino\C Sharp to Arduino\obj\Debug\C Sharp to Arduino.exe
+F:\Projects\C Sharp to Arduino\C Sharp to Arduino\obj\Debug\C Sharp to Arduino.pdb
